@@ -17,6 +17,10 @@ label {
 	display: inline-block; 
 }
 
+#formcol1 li {   
+	list-style:none;
+}
+
 	
 
 .outline3 {
