@@ -11,11 +11,7 @@
 	font-weight:bold;
 }
 
-label {
-	margin-right: .3em;
-	width: 6.3em; 
-	display: inline-block; 
-}
+
 
 #formcol1 li {   
 	list-style:none;
