@@ -11,6 +11,14 @@
 	font-weight:bold;
 }
 
+label {
+	margin-right: .3em;
+	width: 6.3em; 
+	display: inline-block; 
+}
+
+	
+
 .outline3 {
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:150%;
